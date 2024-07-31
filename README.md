@@ -1,8 +1,9 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="www.linkedin.com/in/brayan-puentes-desarrollador-web">Alexander Martinez</a> 👋</h1>
 </div>
-<img src="https://ibb.co/6NZThyS](https://i.ibb.co/7bzZcSD/Dise-ador-Web-Jr.png">
-
+<div align="center">
+  <img src="https://i.ibb.co/7bzZcSD/Dise-ador-Web-Jr.png" alt="Diseñador Web Jr">
+</div>
 
 # 💫 About Me:
 ✨ Soy un Desarrollador de Software junior con nivel de inglés B1.<br>🚀 Tengo experiencia en el desarrollo de landing pages y desarrollo web.<br>👯 Estoy comprometido con construir el futuro a través del diseño y la creación de software.<br>💬 Poseo una sólida formación en lenguajes de programación como HTML, CSS, JavaScript y Java.<br>💻 Tengo experiencia en el uso de herramientas de prototipado como Figma, Invision y Balsamiq.<br>😄 También gestiono entornos de programación como Visual Studio Code, Android Studio e IntelliJ IDEA.<br>🌟 Mis habilidades incluyen escucha activa, actitud de servicio excepcional y capacidad para trabajar en equipo.<br>🔧 Estoy comprometido con la innovación y la excelencia en cada proyecto.<br>📈 Actualmente, me interesa fortalecer mis competencias en desarrollo web y diseño UX/UI para mejorar la experiencia del usuario y crear interfaces más intuitivas y atractivas.<br>📬 Contáctame en mi correo personal: alexandermartinez.code@gmail.com
