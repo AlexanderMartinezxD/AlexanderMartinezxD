@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="www.linkedin.com/in/brayan-puentes-desarrollador-web">Alexander Martinez</a> 👋</h1>
 </div>
-<img src="[https://ibb.co/6NZThyS](https://i.ibb.co/7bzZcSD/Dise-ador-Web-Jr.png)">
+<img src="https://ibb.co/6NZThyS](https://i.ibb.co/7bzZcSD/Dise-ador-Web-Jr.png">
 
 
 # 💫 About Me:
