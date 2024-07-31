@@ -29,6 +29,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AlexanderMartinezxD&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AlexanderMartinezxD&icon=0&color=9)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=AlexanderMartinezxD&icon=0&color=9" alt="Visitor Count" width="150"/>
+</a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
