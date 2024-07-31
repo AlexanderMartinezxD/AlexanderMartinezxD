@@ -12,16 +12,13 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brayan-puentes-desarrollador-web) <br/>
 
-<!-- Visual Studio Code -->
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%230078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-%2337002C.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-
-
-
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
+# 📟 IDEs:
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%230078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%23a5f5d9.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 # 💹 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AlexanderMartinezxD&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
