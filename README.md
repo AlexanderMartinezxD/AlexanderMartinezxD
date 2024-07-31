@@ -13,7 +13,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brayan-puentes-desarrollador-web) <br/>
 
 <div style="display: flex; align-items: center; background-color: #0078D7; padding: 10px; border-radius: 5px; width: fit-content;">
-    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdmlld0JveD0iMCAwIDI1NiAyNTYiPjxnIGZpbGw9Im5vbmUiPjxyZWN0IHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2IiBmaWxsPSIjRjRGMkVEIiByeD0iNjAiLz48cGF0aCBmaWxsPSIjMjQ4OUNBIiBkPSJNMzMuNzE2IDEwMC4yMDhzLTQuNzM1LTMuNDEzLjk0Ny03Ljk3bDEzLjIzNi0xMS44MzZzMy43ODgtMy45ODUgNy43OTItLjUxM2wxMjIuMTQ5IDkyLjQ3OXY0NC4zNDZzLS4wNTkgNi45NjQtOC45OTYgNi4xOTR6Ii8+PHBhdGggZmlsbD0iIzEwNzBCMyIgZD0ibTY1LjIgMTI4Ljc5MmwtMzEuNDg0IDI4LjYyM3MtMy4yMzYgMi40MDcgMCA2LjcwOGwxNC42MTcgMTMuMjk1czMuNDcyIDMuNzI5IDguNjAxLS41MTNsMzMuMzc4LTI1LjMwOXoiLz48cGF0aCBmaWxsPSIjMDg3N0I5IiBkPSJtMTIwLjQ3NCAxMjkuMDI5bDU3Ljc0MS00NC4wOWwtLjM3NS00NC4xMDlzLTIuNDY2LTkuNjI3LTEwLjY5Mi00LjYxNmwtNzYuODM2IDY5LjkzMXoiLz48cGF0aCBmaWxsPSIjM0M5OUQ0IiBkPSJNMTY4Ljg0NCAyMjIuOTY4YzMuMzU0IDMuNDMyIDcuNDE4IDIuMzA4IDcuNDE4IDIuMzA4bDQ0Ljk5Ny0yMi4xNzNjNS43Ni0zLjkyNiA0Ljk1MS04Ljc5OCA0Ljk1MS04Ljc5OFY2MS44OThjMC01LjgyLTUuOTU4LTcuODMxLTUuOTU4LTcuODMxbC0zOC45OTktMTguOGMtOC41MjItNS4yNjctMTQuMTA1Ljk0Ny0xNC4xMDUuOTQ3czcuMTgtNS4xNjggMTAuNjkyIDQuNjE2djE3NS4wNzVhOCA4IDAgMCAxLS43NjkgMy40NTNjLTEuMDI2IDIuMDcxLTMuMjU1IDQuMDA0LTguNjAxIDMuMTk1eiIvPjwvZz48L3N2Zz4=" alt="Visual Studio Code" style="height: 30px; margin-right: 10px;"/>
+    <img src="![image](https://github.com/user-attachments/assets/78a2ed37-e2e4-49df-9792-66f5e9b501d6)
+" alt="Visual Studio Code" style="height: 30px; margin-right: 10px;"/>
     <span style="color: white; font-size: 16px; font-weight: bold;">Visual Studio Code</span>
 </div>
 
