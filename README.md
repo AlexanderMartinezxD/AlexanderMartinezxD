@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/brayan-puentes-desarrollador-web) <br/>
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 # 💻 Tech Stack:
